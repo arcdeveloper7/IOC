@@ -1,8 +1,8 @@
 echo off
 color 0a
 call AP_data.bat
-call TL_data.bat
+call TL_script.bat
 title %vname%
-call AP_data.bat
+call AP_script.bat
 
 
