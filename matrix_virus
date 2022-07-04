@@ -5,6 +5,6 @@ call \data\AP_data.bat
 
 title %vname%
 :loop
-echo %num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%
-echo %num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%
+echo %num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%
+echo %num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%
 goto loop
