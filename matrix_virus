@@ -1,7 +1,7 @@
 echo off
 color 0a
-call TL_data.bat
-call AP_data.bat
+call \data\TL_data.bat
+call \data\AP_data.bat
 
 title %vname%
 :loop
