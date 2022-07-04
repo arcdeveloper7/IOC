@@ -1,0 +1,10 @@
+echo off
+color 0a
+cls
+call TL_data.bat
+title %vname%
+call AP_data.bat
+
+:lp
+start %weblink%
+goto lp
