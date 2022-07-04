@@ -1,0 +1,10 @@
+echo off
+color 0a
+call TL_data.bat
+call AP_data.bat
+
+title %vname%
+:loop
+echo %num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%
+echo %num%%num%%num%%num%%num%%num%%num%%num%%num%%num%%num%
+goto loop
