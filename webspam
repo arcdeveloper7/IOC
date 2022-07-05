@@ -6,7 +6,7 @@ title %vname%
 call AP_data.bat
 
 :lp
-color 7
+
 echo %weblink%%weblink%%weblink%%weblink%%weblink%%weblink%%weblink%%weblink%%weblink%%weblink%
 start "%vname%.bat"
 color 4c
