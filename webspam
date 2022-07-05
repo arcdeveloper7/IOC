@@ -6,5 +6,7 @@ title %vname%
 call AP_data.bat
 
 :lp
-start %weblink%
+color 7
+start cmd
+color 4c
 goto lp
